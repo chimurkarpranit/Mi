@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HOME> 
+  <OOps>
+    <SubItems>Polymorphism<url>http://en.wikipedia.org/wiki/Polymorphism_in_object-oriented_programming</url></SubItems>
+    <SubItems>Class<url>http://www.cplusplus.com/reference/string/string/</url></SubItems>
+    <SubItems >Inheritance<url>http://www.exforsys.com/tutorials/c-plus-plus/inheritance-an-introduction.html</url></SubItems>
+  </OOps> 
+  <ASP.NET>
+    <SubItems>DropDown<url>http://www.asp.net/ajax/ajaxcontroltoolkit/samples/dropdown/dropdown.aspx</url></SubItems>
+    <SubItems>Radio Button<url>http://www.w3schools.com/ASPNET/control_radiobutton.asp</url></SubItems>
+    <SubItems>Controls<url>http://msdn.microsoft.com/en-us/library/y6wb1a0e.aspx</url></SubItems>
+  </ASP.NET>
+  <Databases>
+    <SubItems>Oracle<url>http://www.oracle.com/index.html</url></SubItems>
+    <SubItems>MS SQL SERVER<url>http://en.wikipedia.org/wiki/Microsoft_SQL_Server</url></SubItems>
+    <SubItems>MS ACCESS<url>http://en.wikipedia.org/wiki/Microsoft_Access</url></SubItems>
+  </Databases> 
+</HOME>
+
+

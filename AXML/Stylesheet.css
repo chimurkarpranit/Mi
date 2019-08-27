@@ -1,0 +1,41 @@
+﻿body
+{
+}
+.Dynamictable
+{
+	width: 150px;
+	background-color: Purple;
+	border-collapse: collapse;
+	border-spacing: 2px;
+	border: thin 2px Black;
+	azimuth: left;
+	font-size: 12px;
+	display: inline-table;
+	overflow:auto;
+}
+.Bodytd
+{	
+    width: 120px;
+    border-collapse: collapse;
+    border:thin 2px Black;
+    azimuth: left-side;
+    direction: ltr;    
+    color: White;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.Div
+{
+    overflow:AUTO;
+    width:150px;   
+    display:none;
+}
+
+.lblControl
+{
+    color: Red;
+    width: 180px;
+    height: 5px;
+    font-size: 15px;
+}
